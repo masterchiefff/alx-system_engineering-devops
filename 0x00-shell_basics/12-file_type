@@ -1,2 +1,2 @@
 #!/bin/bash
-file -eis -Z tmp/iamafile
+file -fzis tmp/iamafile
